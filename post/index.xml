@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on It&#39;s about me</title>
+    <title>Posts on 捲毛的部落格</title>
     <link>https://tastingoooo.github.io/post/</link>
-    <description>Recent content in Posts on It&#39;s about me</description>
+    <description>Recent content in Posts on 捲毛的部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 05 Jul 2022 04:24:41 +0800</lastBuildDate><atom:link href="https://tastingoooo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First_post</title>
-      <link>https://tastingoooo.github.io/first_post/</link>
+      <title>Android Study Jam</title>
+      <link>https://tastingoooo.github.io/android-study-jam/</link>
       <pubDate>Tue, 05 Jul 2022 04:24:41 +0800</pubDate>
       
-      <guid>https://tastingoooo.github.io/first_post/</guid>
-      <description>不是欸到底是怎樣</description>
+      <guid>https://tastingoooo.github.io/android-study-jam/</guid>
+      <description>Android Study Jam 由Google Developers舉辦的線上學習活動
+不用報名費，不用交報告書！
+不只如此，在官方舉辦的期限內完成還送禮物！
+以Kotlin為主的教學 Kotlin在Google的大力推廣下，已經成為開發Android的首選程式語言，而這個課程官方說是『沒有技術背景的人也能學習』的課程。
+但我自己是覺得有一點程式語言基礎再學才不會在中間有過多的問號，雖然課程內容從變數開始教起，但像函式、高階函式、Lambda這類的就需要多一點的程式基礎，如果只是盲目的學習下去， 雖然完成了課程卻沒辦法實際應用不是很可惜的嘛。
+第二次活動開始後大部分有提供中文教材，但很多地方是語意不通順的，很容易誤會其內容的意思，這時建議改成英文來閱讀，也建議在測驗以英文接受測試
+測驗 每個小章節結束時會有測驗來驗收成果，我自己是滿喜歡這環節的。
+總結 我自己滿推薦像我這樣的新手來學習的，畢竟比起毫無頭緒，有個目標引導更能為自己找到方向。</description>
     </item>
     
   </channel>
