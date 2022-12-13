@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tastingoooo.github.io/</loc>
+    <loc>https://tastingoooo.github.io/android-study-jam/</loc>
     <lastmod>2022-07-05T04:24:41+08:00</lastmod>
   </url><url>
-    <loc>https://tastingoooo.github.io/android-study-jam/</loc>
+    <loc>https://tastingoooo.github.io/</loc>
     <lastmod>2022-07-05T04:24:41+08:00</lastmod>
   </url><url>
     <loc>https://tastingoooo.github.io/tags/kotlin/</loc>
@@ -17,10 +17,10 @@
     <loc>https://tastingoooo.github.io/tags/</loc>
     <lastmod>2022-07-05T04:24:41+08:00</lastmod>
   </url><url>
-    <loc>https://tastingoooo.github.io/about/</loc>
+    <loc>https://tastingoooo.github.io/rss/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tastingoooo.github.io/rss/</loc>
+    <loc>https://tastingoooo.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
 </urlset>

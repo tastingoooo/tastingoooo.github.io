@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Me on 捲毛的部落格</title>
+    <title>Hi on 捲毛的部落格</title>
     <link>https://tastingoooo.github.io/</link>
-    <description>Recent content in About Me on 捲毛的部落格</description>
+    <description>Recent content in Hi on 捲毛的部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 05 Jul 2022 04:24:41 +0800</lastBuildDate><atom:link href="https://tastingoooo.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,25 +13,14 @@
       <pubDate>Tue, 05 Jul 2022 04:24:41 +0800</pubDate>
       
       <guid>https://tastingoooo.github.io/android-study-jam/</guid>
-      <description>Android Study Jam 由Google Developers舉辦的線上學習活動
+      <description>
+Android Study Jam 由Google Developers舉辦的線上學習活動
 不用報名費，不用交報告書！
 不只如此，在官方舉辦的期限內完成還送禮物！
-以Kotlin為主的教學 Kotlin在Google的大力推廣下，已經成為開發Android的首選程式語言，而這個課程官方說是『沒有技術背景的人也能學習』的課程。
-但我自己是覺得有一點程式語言基礎再學才不會在中間有過多的問號，雖然課程內容從變數開始教起，但像函式、高階函式、Lambda這類的就需要多一點的程式基礎，如果只是盲目的學習下去， 雖然完成了課程卻沒辦法實際應用不是很可惜的嘛。
+以Kotlin為主的教學 Kotlin在Google的大力推廣下，已經成為開發Android的首選程式語言，而這個課程官方說是『沒有技術背景的人也能學習』的課程。但我自己是覺得有一點程式語言基礎再學才不會在中間有過多的問號，雖然課程內容從變數開始教起，但像函式、高階函式、Lambda這類的就需要多一點的程式基礎，如果只是盲目的學習下去， 雖然完成了課程卻沒辦法實際應用不是很可惜的嘛。
 第二次活動開始後大部分有提供中文教材，但很多地方是語意不通順的，很容易誤會其內容的意思，這時建議改成英文來閱讀，也建議在測驗以英文接受測試
 測驗 每個小章節結束時會有測驗來驗收成果，我自己是滿喜歡這環節的。
-總結 我自己滿推薦像我這樣的新手來學習的，畢竟比起毫無頭緒，有個目標引導更能為自己找到方向。</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://tastingoooo.github.io/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://tastingoooo.github.io/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
-https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Learn more and contribute on GitHub.</description>
+心得 我自己滿推薦像我這樣的新手來學習的，畢竟比起毫無頭緒，有個目標引導更能為自己找到方向。</description>
     </item>
     
     <item>
@@ -43,6 +32,18 @@ https://github.com/russross/blackfriday https://github.com/alecthomas/chroma htt
       <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
 It makes use of a variety of open source projects including:
 https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>關於我</title>
+      <link>https://tastingoooo.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://tastingoooo.github.io/about/</guid>
+      <description>嗨～我是一名高雄科技應用大學的學生，如果未來有滿意的作品會放到這邊。
+技能 Languages: Python,C#,JavaScript,HTML,CSS,JAVA Technologyies: Git,React.js,Node.js,Express,MongoDB
+聯絡方式 Email:ga2006487795@gmail.com
+手機:0909020902 </description>
     </item>
     
   </channel>
